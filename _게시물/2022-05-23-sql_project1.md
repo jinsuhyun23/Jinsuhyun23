@@ -70,7 +70,7 @@ WHY ?  결과물을 보고 어떤 기준으로 그룹화했는지 판단해야 �
 <br/>
 
 ### 2) 두 테이블에 모두 존재하는 속성으로 Join 해야 함
-ex) orderid가 orders, orderdetails 모든 테이블에 있는 경우 -> a.orderid = b.orderdetailsid
+ex) orderid가 orders, orderdetails 모든 테이블에 있는 경우 -> a.orderid = b.orderid
 
 <br/>
 
