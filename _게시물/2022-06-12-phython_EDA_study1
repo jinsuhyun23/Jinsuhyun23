@@ -1,4 +1,4 @@
-----------------------------------------------
+---
 title : "pd.read_csv를 통한 파일 읽기(오류 해결 포함)"
 excerpt : "판다스, 파이썬, read_csv"
 
@@ -7,11 +7,10 @@ categories :
 
  tags:
  - [Phython, pandas, pd.read_csv, 오류, 경로, 작업 폴더]
-----------------------------------------------
-
+---
 
 pd.read_csv를 통한 파일 읽기(오류 해결 포함)
-============================================
+===========
 
 ## 1) 내 작업 폴더 위치 확인  
 ### - 작업 폴더 위치에 Load할 데이터를 놓아야 한다!
@@ -31,9 +30,9 @@ pd.read_csv를 통한 파일 읽기(오류 해결 포함)
 ### - 파일 경로에 'money 기호' 대신 '/' 1번 또는 '\\' 2번 넣어준다  
 ### - \로 입력할 경우 유니코드로 인식하여 오류 발생  
 
-### 참고 링크 :   https://garlicsnackbar.tistory.com/3  
-
-<br/>
+### 참고 링크 :   https://garlicsnackbar.tistory.com/3    
+  
+<br/>  
 
 ## - Data Load 코드 예시
-<img src = "https://img1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/e0Ty/image/LPA7nyEAu86bsQrFRaNlb3DhHSw.jpg">
+<img src = "https://img1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/e0Ty/image/LPA7nyEAu86bsQrFRaNlb3DhHSw.jpg">  
